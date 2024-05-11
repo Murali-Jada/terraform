@@ -22,6 +22,6 @@ resource "aws_security_group" "allow_ports" {
 
     tags = {
         Name = "allow_ports"
-        CreatedBy = "Sivakumar"
+        CreatedBy = "Murali"
     }
 }
